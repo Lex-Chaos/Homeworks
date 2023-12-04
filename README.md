@@ -11,7 +11,7 @@
 ### Задание 2
 
 Ответ:
-[Add .gitignore](https://github.com/Lex-Chaos/netology-task/commit/b841f2504d658e99b56644714e60e2b30eb87c57)
+[Исправленный .gitignore](https://github.com/Lex-Chaos/netology-task/commit/4f2d7807c0bd98123f4a560f76fe990d924a0165)
 
 ---
 
