@@ -5,13 +5,15 @@
 Ответ:
 
 Настройки проекта
-![Настройки проекта](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Options1.png)
-![Настройки проекта](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Options2.png)
+![Настройки проекта](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Nastroiki_1.png)
+![Настройки проекта](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Nastroiki_2.png)
 
 Тест и сборка проекта
-![Начало](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Start.png)
+![Начало](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Sborka_nachalo.png)
 
-![Конец](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Finish.png)
+![Продолжение](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Sborka_prodolzhenye.png)
+
+![Продолжение](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Sborka_konetz.png)
 
 ---
 
