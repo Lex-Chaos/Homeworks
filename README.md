@@ -20,8 +20,17 @@
 ### Задание 2
 
 Ответ:
+Настройки проекта
+![Настройки проекта](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Pipeline.png)
 
+Вывод на консоль
+![консоль_1](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Consol_1.png)
+![консоль_2](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Consol_2.png)
+![консоль_3](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Consol_3.png)
+![консоль_4](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Consol_4.png)
 
+Результат сборки
+![Результ сборки](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Process.png)
 ---
 
 ### Задание 3
