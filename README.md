@@ -8,7 +8,7 @@
 ![Настройки проекта](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Nastroiki_1.png)
 ![Настройки проекта](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Nastroiki_2.png)
 
-Вывод в консоль
+Вывод консоли
 ![Начало](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Sborka_nachalo.png)
 ![Продолжение](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Sborka_prodolzhenye.png)
 ![Конец](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Sborka_konetz.png)
@@ -22,7 +22,7 @@
 Настройки проекта
 ![Настройки проекта](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Pipeline.png)
 
-Вывод в консоль
+Вывод консоли
 ![Консоль 1](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Consol_1.png)
 ![Консоль 2](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Consol_2.png)
 ![Консоль 3](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Consol_3.png)
@@ -40,7 +40,7 @@
 Настройки проекта
 ![Настройки проекта](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Task_3_Config.png)
 
-Вывод в консоль
+Вывод консоли
 ![Консоль 1](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Task_3_Consol_1.png)
 ![Консоль 2](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Task_3_Consol_2.png)
 ![Консоль 3](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Task_3_Consol_3.png)
@@ -51,4 +51,8 @@
 ### Задание 4*
 
 Ответ:
+
+Реализация версии приложения
+![Конфиг](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Task_4_Config)
+![Консоль](https://github.com/Lex-Chaos/Homeworks/blob/HW-CI-CD/img/Task_4_Consol)
 
